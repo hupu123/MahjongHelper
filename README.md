@@ -1,0 +1,2 @@
+# MahjongHelper
+Develop for fun
